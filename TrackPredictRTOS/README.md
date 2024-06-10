@@ -120,6 +120,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
    
 ## Acknowledgments
 
-Advisor: Dr. Mert Yağcıoğlu
-Supervisor: Dr. Aziz Kubilay Ovacıklı
-Contributors: Efe Ülgen Yılmaz
+   Advisor: Dr. Mert Yağcıoğlu
+   Supervisor: Dr. Aziz Kubilay Ovacıklı
+   Contributors: Efe Ülgen Yılmaz
