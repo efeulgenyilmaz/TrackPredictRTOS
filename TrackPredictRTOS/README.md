@@ -104,7 +104,7 @@ The goal is to design an algorithm capable of identifying, tracking, and predict
 
    Follow the "Instructions.md" to compile and test.
    
-##Contributing
+## Contributing
 
 We welcome contributions to enhance this project. Please follow these steps:
 
@@ -114,7 +114,7 @@ We welcome contributions to enhance this project. Please follow these steps:
 4. Push the branch to your fork.
 5. Open a Pull Request.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
    
