@@ -1,0 +1,21 @@
+----- help -----
+for compiling use:
+
+g++ external.c -o external `pkg-config --cflags --libs opencv4`
+gcc dtst.c main.c -o main -lSDL2
+
+Run the main program, it will run the external program.
+-----
+Flags of external program: -t --time -h --help
+-----
+If OpenCV is not installed on the system use:
+(on Ubuntu/Debian):
+
+sudo apt update
+sudo apt install libopencv-dev
+
+sudo apt install libsdl2-dev
+-----
+
+Function: the program will take a frame from your camera. You need to show the camera a red object for a valid return value.
+If the program don't recognize your device you may want to check your devices by "ls /dev/video*" command and change the code accordingly or change the resulation in the program.
