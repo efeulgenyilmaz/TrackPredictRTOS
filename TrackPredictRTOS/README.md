@@ -1,6 +1,6 @@
 # Predictive Object Tracking and Automated Response System
 
-![Project Image](https://example.com/project-image.png) <!-- Replace with actual image link -->
+![image](https://github.com/efeulgenyilmaz/TrackPredictRTOS/assets/172309112/b1433825-4e0c-4c0d-94e1-7bd6a9ca315d)
 
 ## Overview
 
