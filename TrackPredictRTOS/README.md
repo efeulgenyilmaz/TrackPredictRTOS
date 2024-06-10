@@ -86,7 +86,7 @@ The goal is to design an algorithm capable of identifying, tracking, and predict
 
 3. **Upload Firmware to Microcontroller (Optional)**
    
-   Follow the Raspberry Pi Pico SDK documentation to upload the firmware.
+   Follow the Raspberry Pi Pico SDK documentation to upload the firmware.  
    "https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf"
    
    build the pico code:
@@ -116,10 +116,10 @@ We welcome contributions to enhance this project. Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.  
    
 ## Acknowledgments
 
-   Advisor: Dr. Mert Yağcıoğlu
-   Supervisor: Dr. Aziz Kubilay Ovacıklı
-   Contributors: Efe Ülgen Yılmaz
+Advisor: Dr. Mert Yağcıoğlu  
+Supervisor: Dr. Aziz Kubilay Ovacıklı  
+Contributors: Efe Ülgen Yılmaz  
