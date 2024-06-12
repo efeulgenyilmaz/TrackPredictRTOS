@@ -56,7 +56,7 @@ The goal is to design an algorithm capable of identifying, tracking, and predict
 - **Processing Unit**: Performs image processing and predictions.
 - **Monitor (Optional)**: Displays real-time tracking information.
 
-![turet](https://github.com/efeulgenyilmaz/TrackPredictRTOS/assets/172309112/6f4a7600-fce8-48ce-b54d-497a355b55db)
+<img src="https://github.com/efeulgenyilmaz/TrackPredictRTOS/assets/172309112/6f4a7600-fce8-48ce-b54d-497a355b55db" alt="turet" style="max-width:50%; height:auto;">
 
 ### Software
 
