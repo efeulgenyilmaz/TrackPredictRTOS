@@ -6,6 +6,8 @@
 
 This project, **Predictive Object Tracking and Automated Response System**, demonstrates a sophisticated approach to real-time object tracking and automatic response using advanced algorithms and efficient hardware communication. It aims to enhance accuracy and efficiency in automated targeting applications.
 
+![turet_reduced](https://github.com/efeulgenyilmaz/TrackPredictRTOS/assets/172309112/7827ad6e-fb9d-4bea-a321-50b39237b1f7)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
