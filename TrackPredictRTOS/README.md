@@ -54,7 +54,7 @@ The goal is to design an algorithm capable of identifying, tracking, and predict
 - **Camera**: Captures frames at regular intervals.
 - **Microcontroller (Raspberry Pi Pico)**: Receives processed data and controls hardware.
 - **Processing Unit**: Performs image processing and predictions.
-- **Monitor (Optional)**: Displays real-time tracking information.
+- **Monitor (Optional)**: Displays real-time tracking information.  
 
 ![turet (1)](https://github.com/efeulgenyilmaz/TrackPredictRTOS/assets/172309112/c60bdbc8-d720-432a-987c-f4f86345cd21)
 
